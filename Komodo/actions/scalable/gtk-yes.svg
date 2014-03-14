@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs11039">
+  <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
+   <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <linearGradient id="linearGradient3022-27" x1="13" gradientUnits="userSpaceOnUse" y1="3" gradientTransform="matrix(3.25,0,0,3.25,12.25,12.25)" x2="13" y2="19">
+   <stop id="stop3639-60" style="stop-color:#f0f0f0" offset="0"/>
+   <stop id="stop3641-1" style="stop-color:#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata11042">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <rect id="rect3867" style="opacity:.6" rx="25" ry="25" height="92" width="92" y="958.36" x="2"/>
+  <g id="g3070" transform="translate(-2.2222e-7 956.36)">
+   <path id="path3913" style="opacity:.3" d="m48 23c-14.352 0-26 11.648-26 26s11.648 26 26 26 26-11.648 26-26-11.648-26-26-26zm9.8516 13.102 6.2969 6.8047-19.5 22.141-12.797-12.695 6.2969-6.8047 6.5 5.8906 13.203-15.336z"/>
+   <path id="path2505" style="fill:url(#linearGradient3022-27)" d="m48 22c-14.352 0-26 11.648-26 26s11.648 26 26 26 26-11.648 26-26-11.648-26-26-26zm9.8516 13.102 6.2969 6.8047-19.5 22.141-12.797-12.695 6.2969-6.8047 6.5 5.8906 13.203-15.336z"/>
+   <path id="path3895" style="opacity:.75;fill:#fff" d="m48 22c-14.352 0-26 11.648-26 26 0 0.16679-0.0031 0.33395 0 0.5 0.266-14.122 11.815-25.5 26-25.5s25.734 11.378 26 25.5c0.003-0.166 0-0.333 0-0.5 0-14.352-11.648-26-26-26zm15.719 20.406-19.062 21.656-12.344-12.25-0.46875 0.53125 12.812 12.719 19.5-22.156-0.4375-0.5z"/>
+   <path id="path3904" style="opacity:.15" d="m57.844 34.094-13.188 15.344-6.5-5.875-6.3125 6.7812 0.46875 0.46875 5.8438-6.25 6.5 5.875 13.188-15.344 5.875 6.3125 0.4375-0.5-6.3125-6.8125zm-35.844 13.406c-0.0031 0.16605 0 0.33321 0 0.5 0 14.352 11.648 26 26 26s26-11.648 26-26c0-0.16679 0.0031-0.33395 0-0.5-0.266 14.122-11.815 25.5-26 25.5s-25.734-11.378-26-25.5z"/>
+  </g>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98 -.0000026172)" width="92" y="958.36" x="-96" height="92"/>
+ </g>
+</svg>

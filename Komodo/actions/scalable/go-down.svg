@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs11039">
+  <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
+   <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <linearGradient id="linearGradient3022" x1="10.744" gradientUnits="userSpaceOnUse" y1="16.767" gradientTransform="matrix(2.7635 0 0 -3.2231 15.34 82)" x2="10.744" y2="3.7231">
+   <stop id="stop3639-0" style="stop-color:#f0f0f0" offset="0"/>
+   <stop id="stop3641-887" style="stop-color:#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata11042">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <rect id="rect3867" style="opacity:.6" rx="25" ry="25" height="92" width="92" y="958.36" x="2"/>
+  <g id="g3070" transform="translate(0 956.36)">
+   <path id="path3905" style="opacity:.3" d="m38.093 29v16.094h-9.093l19 29.906 19-29.906h-9v-16.094z"/>
+   <path id="Symbol" style="fill:url(#linearGradient3022)" d="m38.093 28v16.094h-9.093l19 29.906 19-29.906h-9v-16.094z"/>
+   <path id="path3887" style="opacity:.75;fill:#fff" d="m38.094 28v1h19.906v-1h-19.906zm-9.094 16.094l0.625 1h8.4688v-1h-9.0938zm29 0v1h8.375l0.625-1h-9z"/>
+   <path id="path3896" style="opacity:.15" d="m29 44.094 19 29.906 19-29.906h-0.625l-18.375 28.906-18.375-28.906h-0.625z"/>
+  </g>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98 -.0000026172)" width="92" y="958.36" x="-96" height="92"/>
+ </g>
+</svg>

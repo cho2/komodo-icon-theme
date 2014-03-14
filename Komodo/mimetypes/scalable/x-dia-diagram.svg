@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs11039">
+  <linearGradient id="linearGradient11642" x1="48" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)" y1="962.62" y2="1046.1">
+   <stop id="stop3702" style="stop-color:#e6e6e6" offset="0"/>
+   <stop id="stop3704" style="stop-color:#f5f5f5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3915" x1="28" xlink:href="#linearGradient3909" gradientUnits="userSpaceOnUse" y1="60" gradientTransform="translate(2)" x2="28" y2="67"/>
+  <linearGradient id="linearGradient3909">
+   <stop id="stop3911" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3913" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3919" x1="28" xlink:href="#linearGradient3909" gradientUnits="userSpaceOnUse" y1="60" gradientTransform="translate(38)" x2="28" y2="67"/>
+  <linearGradient id="linearGradient3924" x1="28" xlink:href="#linearGradient3909" gradientUnits="userSpaceOnUse" y1="60" gradientTransform="translate(20,-40)" x2="28" y2="67"/>
+  <linearGradient id="linearGradient3930" x1="28" xlink:href="#linearGradient3909" gradientUnits="userSpaceOnUse" y1="60" gradientTransform="translate(20,-20)" x2="28" y2="67"/>
+  <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
+   <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata11042">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <rect id="rect3867" style="fill:url(#linearGradient11642)" rx="25" ry="25" height="92" width="92" y="958.36" x="2"/>
+  <g id="layer4" transform="translate(0 956.36)">
+   <path id="rect3887" style="opacity:.4;color:#000000" d="m55 46v1h13v13h1v-14h-14z"/>
+   <path id="rect3885" style="opacity:.4;color:#000000" d="m29 46v14h1v-13h12v-1h-13z"/>
+   <rect id="rect3881" style="opacity:.4;color:#000000" height="9" width="1" y="32" x="48"/>
+   <rect id="rect3857" style="color:#000000;fill:#9edbec" height="12" width="20" y="19.9" x="38"/>
+   <rect id="rect3859" style="color:#000000;fill:#f95" height="12" width="20" y="59.9" x="20"/>
+   <rect id="rect3861" style="color:#000000;fill:#fac" height="12" width="20" y="59.9" x="56"/>
+   <path id="path3863" style="fill:#a8e97c" d="m38 47 10.5-7 10.5 7-10.5 7z"/>
+   <rect id="rect3907" style="opacity:.5;color:#000000;fill:url(#linearGradient3915)" height="7.1" width="20" y="59.9" x="20"/>
+   <path id="path3872" style="opacity:.6;color:#000000;fill:#a35c2d" d="m20 59.906v12h20v-12h-20zm1 1h18v10h-18v-10z"/>
+   <rect id="rect3917" style="opacity:.5;color:#000000;fill:url(#linearGradient3919)" height="7.1" width="20" y="59.9" x="56"/>
+   <path id="path3874" style="opacity:.5;color:#000000;fill:#d33a78" d="m56 59.906v12h20v-12h-20zm1 1h18v10h-18v-10z"/>
+   <rect id="rect3921" style="opacity:.5;color:#000000;fill:url(#linearGradient3924)" height="7.1" width="20" y="19.9" x="38"/>
+   <path id="rect3867-8" style="opacity:.5;color:#000000;fill:#2e72a8" d="m38 19.906v12h20v-12h-20zm1 1h18v10h-18v-10z"/>
+   <path id="rect3928" style="opacity:.5;color:#000000;fill:url(#linearGradient3930)" d="m48.5 40-10.5 7h20v-0.656l-9.5-6.344z"/>
+   <path id="path3876" style="opacity:.5;fill:#3f701f" d="m48.5 40-10.5 7 10.5 7 10.5-7-10.5-7zm0 1 8.925 6-8.925 6-8.925-6 8.925-6z"/>
+  </g>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98 3.8281e-7)" width="92" y="958.36" x="-96" height="92"/>
+ </g>
+</svg>

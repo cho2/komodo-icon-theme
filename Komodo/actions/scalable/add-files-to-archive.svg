@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs11039">
+  <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
+   <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <linearGradient id="linearGradient3867" x1="11.999" gradientUnits="userSpaceOnUse" y1="1.8417" gradientTransform="matrix(2.7742 0 0 3.2616 2.8198 13.993)" x2="11.999" y2="20.237">
+   <stop id="stop3639" style="stop-color:#f0f0f0" offset="0"/>
+   <stop id="stop3641" style="stop-color:#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata11042">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <rect id="rect3867" style="opacity:.6" rx="25" ry="25" height="92" width="92" y="958.36" x="2"/>
+  <g id="g3092" transform="translate(0 956.36)">
+   <path id="path3887" style="opacity:.3" d="m42 21c-3.324 0-6 2.676-6 6h27c1.662 0 3 1.338 3 3v30c0 1.662-1.338 3-3 3h-27c0 3.324 2.676 6 6 6h9v4h-3v2h-9v2h9v2h12v-2h9v-2h-9v-2h-3v-4h9c3.324 0 6-2.676 6-6v-36c0-3.324-2.676-6-6-6h-24zm-17.5 8c-2.493 0-4.5 2.007-4.5 4.5v23c0 2.493 2.007 4.5 4.5 4.5h6c-2.493 0-4.5-2.007-4.5-4.5v-23c0-2.493 2.007-4.5 4.5-4.5h-6zm10 0c-2.493 0-4.5 2.007-4.5 4.5v23c0 2.493 2.007 4.5 4.5 4.5h17c2.493 0 4.5-2.007 4.5-4.5v-23c0-2.493-2.007-4.5-4.5-4.5h-17zm3 6h11c0.831 0 1.5 0.669 1.5 1.5v17c0 0.831-0.669 1.5-1.5 1.5h-11c-0.831 0-1.5-0.669-1.5-1.5v-17c0-0.831 0.669-1.5 1.5-1.5z"/>
+   <path id="path3087" style="fill:url(#linearGradient3867)" d="m42 20c-3.324 0-6 2.676-6 6h27c1.662 0 3 1.338 3 3v30c0 1.662-1.338 3-3 3h-27c0 3.324 2.676 6 6 6h9v4h-3v2h-9v2h9v2h12v-2h9v-2h-9v-2h-3v-4h9c3.324 0 6-2.676 6-6v-36c0-3.324-2.676-6-6-6h-24zm-17.5 8c-2.493 0-4.5 2.007-4.5 4.5v23c0 2.493 2.007 4.5 4.5 4.5h6c-2.493 0-4.5-2.007-4.5-4.5v-23c0-2.493 2.007-4.5 4.5-4.5h-6zm10 0c-2.493 0-4.5 2.007-4.5 4.5v23c0 2.493 2.007 4.5 4.5 4.5h17c2.493 0 4.5-2.007 4.5-4.5v-23c0-2.493-2.007-4.5-4.5-4.5h-17zm3 6h11c0.831 0 1.5 0.669 1.5 1.5v17c0 0.831-0.669 1.5-1.5 1.5h-11c-0.831 0-1.5-0.669-1.5-1.5v-17c0-0.831 0.669-1.5 1.5-1.5z"/>
+   <path id="path3869" style="opacity:.75;fill:#fff" d="m42 20c-3.324 0-6 2.676-6 6h0.09375c0.471-2.847 2.921-5 5.906-5h24c3.324 0 6 2.676 6 6v-1c0-3.324-2.676-6-6-6h-24zm-17.5 8c-2.493 0-4.5 2.007-4.5 4.5v1c0-2.493 2.007-4.5 4.5-4.5h3.1875c0.76948-0.61537 1.7461-1 2.8125-1h-6zm10 0c-2.493 0-4.5 2.007-4.5 4.5v1c0-2.493 2.007-4.5 4.5-4.5h17c2.493 0 4.5 2.007 4.5 4.5v-1c0-2.493-2.007-4.5-4.5-4.5h-17zm1.5 24.5v1c0 0.831 0.669 1.5 1.5 1.5h11c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-11c-0.831 0-1.5-0.669-1.5-1.5zm-10 3v1c0 1.4266 0.65803 2.6767 1.6875 3.5h2.812c-2.493 0-4.5-2.007-4.5-4.5zm40 3.5c0 1.662-1.338 3-3 3h-27c0 0.33914 0.04019 0.67651 0.09375 1h26.906c1.662 0 3-1.338 3-3v-1zm-18 13v1h3v-1h-3zm9 0v1h3v-1h-3zm-18 2v1h9v-1h-9zm21 0v1h9v-1h-9z"/>
+   <path id="path3878" style="opacity:.15" d="m36.094 25c-0.054 0.323-0.094 0.661-0.094 1h27c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-26.906zm-8.406 3c-1.03 0.823-1.688 2.073-1.688 3.5v1c0-2.493 2.007-4.5 4.5-4.5h-2.8125zm9.812 5c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h11c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-11zm-17.5 21.5v1c0 2.493 2.007 4.5 4.5 4.5h6c-1.0664 0-2.043-0.38463-2.8125-1h-3.188c-2.493 0-4.5-2.007-4.5-4.5zm10 0v1c0 2.493 2.007 4.5 4.5 4.5h17c2.493 0 4.5-2.007 4.5-4.5v-1c0 2.493-2.007 4.5-4.5 4.5h-17c-2.493 0-4.5-2.007-4.5-4.5zm42 6.5c0 3.324-2.676 6-6 6h-9v1h9c3.324 0 6-2.676 6-6v-1zm-36 1c0 3.324 2.676 6 6 6h9v-1h-9c-2.9849 0-5.4349-2.1528-5.9062-5h-0.094zm3 13v1h9v-1h-9zm21 0v1h9v-1h-9zm-12 2v1h12v-1h-12z"/>
+  </g>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98)" width="92" y="958.36" x="-96" height="92"/>
+ </g>
+</svg>

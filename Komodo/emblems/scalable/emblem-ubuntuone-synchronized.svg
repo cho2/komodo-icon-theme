@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs11039">
+  <linearGradient id="linearGradient11642" x1="48" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)" y1="962.62" y2="1046.1">
+   <stop id="stop3189-4" style="stop-color:#c8c8c8" offset="0"/>
+   <stop id="stop3191-0" style="stop-color:#e6e6e6" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
+   <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <linearGradient id="linearGradient2938" x1="8.7405" gradientUnits="userSpaceOnUse" y1="4.5356" gradientTransform="matrix(4.5356 0 0 3.5277 4 -70)" x2="8.7405" y2="20.492">
+   <stop id="stop3906" style="stop-color:#323232" offset="0"/>
+   <stop id="stop3908" style="stop-color:#787878" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath3732">
+   <path id="path3734" style="opacity:.3;color:#000000;fill:#f00" d="m-100-74v96h96v-96h-96zm72.344 20 11.656 11.688-44.094 44.312h-0.031l-27.875-28 11.656-11.719 16.219 16.313 32.469-32.594z"/>
+  </clipPath>
+  <filter id="filter3736" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3738" stdDeviation="0.96"/>
+  </filter>
+ </defs>
+ <metadata id="metadata11042">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <rect id="rect3867" style="fill:url(#linearGradient11642)" rx="25" ry="25" height="92" width="92" y="958.36" x="2"/>
+  <g id="g3044" transform="translate(4.8502e-8 1030.4)">
+   <path id="Symbol" style="fill:url(#linearGradient2938)" d="m72.351-54-32.461 32.579-16.241-16.29-11.649 11.7 27.868 28.011 0.022-0.0224 0.023 0.0224 44.087-44.301-11.649-11.699z"/>
+   <path id="path2943" style="opacity:.2;filter:url(#filter3736);stroke:#fff;stroke-width:4;fill:none" clip-path="url(#clipPath3732)" transform="translate(100)" d="m-27.649-54-32.461 32.579-16.241-16.29-11.649 11.7 27.868 28.011 0.022-0.0224 0.023 0.0224 44.087-44.301-11.649-11.699z"/>
+   <path id="path3740" style="opacity:.1" transform="translate(0,-74)" d="m72.344 20-32.469 32.594-16.219-16.313-11.656 11.719 27.875 28h0.031l44.094-44.312-11.656-11.688zm0 1.9688 9.6875 9.7188l-42.157 42.343-25.906-26.031 9.687-9.75 15.219 15.312a1.3924 1.3924 0 0 0 2 0l31.469-31.593z"/>
+   <path id="path3940" style="opacity:.2" transform="translate(0,-74)" d="m72.344 20-32.469 32.594-16.219-16.313-11.656 11.719 27.875 28h0.031l44.094-44.312-11.656-11.688zm0 1.1875 10.469 10.5l-42.938 43.124-26.687-26.812 10.468-10.531 15.625 15.719a0.84828 0.84828 0 0 0 1.1875 0l31.875-32z"/>
+   <path id="path3948" style="opacity:.3" transform="translate(0,-74)" d="m72.344 20-32.469 32.594-16.219-16.313-11.656 11.719 0.5 0.5 11.156-11.219 16.219 16.313 32.469-32.594 11.156 11.188 0.5-0.5-11.656-11.688z"/>
+   <path id="path3957" style="opacity:.5;fill:#fff" transform="translate(0,-74)" d="m83.5 32.188-43.594 43.812h-0.031l-27.375-27.5-0.5 0.5 27.875 28h0.031l44.094-44.312-0.5-0.5z"/>
+  </g>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98)" width="92" y="958.36" x="-96" height="92"/>
+ </g>
+</svg>

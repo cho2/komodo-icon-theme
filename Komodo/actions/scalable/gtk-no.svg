@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs11039">
+  <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
+   <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <linearGradient id="linearGradient3900-2" x1="13.255" gradientUnits="userSpaceOnUse" y1="19" gradientTransform="matrix(3.25,0,0,3.25,12.25,12.25)" x2="13.255" y2="2.9989">
+   <stop id="stop3185-9-4" style="stop-color:#c80000" offset="0"/>
+   <stop id="stop3187-6-7" style="stop-color:#f3604d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata11042">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <rect id="rect3867" style="opacity:.6" rx="25" ry="25" height="92" width="92" y="958.36" x="2"/>
+  <g id="g3084" transform="translate(-2.2222e-7 956.36)">
+   <path id="path3964" style="opacity:.3" d="m48 23c-14.352 0-26 11.648-26 26s11.648 26 26 26 26-11.648 26-26-11.648-26-26-26zm-8.734 9.75 8.734 8.734 8.734-8.734 7.516 7.516-8.734 8.734 8.734 8.734-7.516 7.516-8.734-8.734-8.734 8.734-7.516-7.516 8.734-8.734-8.734-8.734 7.516-7.516z"/>
+   <path id="path3898" style="fill:url(#linearGradient3900-2)" d="m48 22c-14.352 0-26 11.648-26 26s11.648 26 26 26 26-11.648 26-26-11.648-26-26-26zm-8.734 9.75 8.734 8.734 8.734-8.734 7.516 7.516-8.734 8.734 8.734 8.734-7.516 7.516-8.734-8.734-8.734 8.734-7.516-7.516 8.734-8.734-8.734-8.734 7.516-7.516z"/>
+   <path id="path3946" style="opacity:.3;fill:#fff" d="m48 22c-14.352 0-26 11.648-26 26 0 0.16679-0.0031 0.33395 0 0.5 0.266-14.122 11.815-25.5 26-25.5s25.734 11.378 26 25.5c0.003-0.166 0-0.333 0-0.5 0-14.352-11.648-26-26-26zm-15.75 17.75-0.5 0.5 8.2188 8.25 0.5-0.5l-8.219-8.25zm31.5 0-8.25 8.25 0.5 0.5 8.25-8.25-0.5-0.5zm-15.75 15.75l-8.75 8.75-7-7-0.5 0.5 7.5 7.5 8.75-8.75 8.7188 8.75 7.5312-7.5-0.5-0.5-7.0312 7-8.719-8.75z"/>
+   <path id="path3955" style="opacity:.1" d="m39.25 30.75-7.5 7.5 0.5 0.5 7-7 8.75 8.75 8.7188-8.75 7.0312 7 0.5-0.5-7.5312-7.5l-8.719 8.75-8.75-8.75zm-17.25 16.75c-0.0031 0.16605 0 0.33321 0 0.5 0 14.352 11.648 26 26 26s26-11.648 26-26c0-0.16679 0.0031-0.33395 0-0.5-0.266 14.122-11.815 25.5-26 25.5s-25.734-11.378-26-25.5zm17.969 0-8.2188 8.25 0.5 0.5 8.2188-8.25-0.5-0.5zm16.031 0-0.5 0.5l8.25 8.25 0.5-0.5-8.25-8.25z"/>
+  </g>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98 -.0000026172)" width="92" y="958.36" x="-96" height="92"/>
+ </g>
+</svg>
